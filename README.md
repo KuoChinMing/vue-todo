@@ -1,4 +1,4 @@
-# gh-pages
+# GitHub Pages
 https://kuochinming.github.io/vue-todo/
 
 # 學習心得
